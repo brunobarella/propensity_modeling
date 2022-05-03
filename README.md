@@ -4,4 +4,4 @@
 
 ### [Base de Dados Kaggle.](https://www.kaggle.com/vasudeva009/predicting-coupon-redemption)
 
-### [Tutorial no medium.](https://brunobarella.medium.com/recomendador-de-videos-do-youtube-9ead2a0dc683)
+### [Tutorial no medium.](https://brunobarella.medium.com/previs%C3%A3o-de-super-clientes-usando-composeml-featuretools-e-pycaret-d4f6a2ca566d)
